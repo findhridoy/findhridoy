@@ -15,6 +15,8 @@ Skills: Material-UI/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **find.hridoy546@gmail.com**
 
+- 👨‍💻 Previous github profile [https://github.com/find-hridoy](https://github.com/find-hridoy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/find.hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
