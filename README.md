@@ -9,8 +9,6 @@ Knock me: m.facebook.com/find.hridoy
 Skills: Material-UI/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
-- 🌱 I’m currently learning **JS, Python, React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/findhridoy](https://github.com/findhridoy)
 
 - 💬 Ask me about **HTML5, CSS3, JS, React**
