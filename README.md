@@ -8,7 +8,7 @@ Knock me: m.facebook.com/find.hridoy
 
 #### Skills:  REACT / JAVASCRIPT / HTML / CSS / SASS / Material-UI/ BOOTSTRAP/ NODE / EXPRESS / MONGODB.
  
-##### Previous GitHub profile [https://github.com/find-hridoy](https://github.com/find-hridoy)
+#### Previous GitHub profile [https://github.com/find-hridoy](https://github.com/find-hridoy)
  
 
 - 👨‍💻 All of my projects are available at [https://github.com/findhridoy](https://github.com/findhridoy)
