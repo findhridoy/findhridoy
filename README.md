@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hridoy</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
+<h1>Hi 👋, I'm Hridoy</h1>
+<h3>MERN Stack Web Developer and Web Designer.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/findhridoy) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
+### Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
 Knock me: m.facebook.com/find.hridoy
 
-Skills:  REACT / JAVASCRIPT / HTML / CSS / SASS / Material-UI/ BOOTSTRAP/ NODE / EXPRESS / MONGODB.
+#### Skills:  REACT / JAVASCRIPT / HTML / CSS / SASS / Material-UI/ BOOTSTRAP/ NODE / EXPRESS / MONGODB.
  
-### Previous GitHub profile [https://github.com/find-hridoy](https://github.com/find-hridoy)
+##### Previous GitHub profile [https://github.com/find-hridoy](https://github.com/find-hridoy)
  
 
 - 👨‍💻 All of my projects are available at [https://github.com/findhridoy](https://github.com/findhridoy)
