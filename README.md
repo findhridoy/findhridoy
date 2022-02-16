@@ -6,7 +6,9 @@
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
 Knock me: m.facebook.com/find.hridoy
 
-Skills: Material-UI/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills:  REACT / JAVASCRIPT / HTML / CSS / SASS / Material-UI/ BOOTSTRAP/ NODE / EXPRESS / MONGODB.
+ 
+### Previous GitHub profile [https://github.com/find-hridoy](https://github.com/find-hridoy)
  
 
 - 👨‍💻 All of my projects are available at [https://github.com/findhridoy](https://github.com/findhridoy)
@@ -15,7 +17,6 @@ Skills: Material-UI/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **find.hridoy546@gmail.com**
 
-- 👨‍💻 Previous github profile [https://github.com/find-hridoy](https://github.com/find-hridoy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
